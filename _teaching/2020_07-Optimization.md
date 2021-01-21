@@ -1,10 +1,13 @@
 ---
 title: Optimization with Applications I
+excerpt: WS 2020
 header:
     teaser: assets/images/B2_optimization_function.png
 sidebar:
     - title:
       image: assets/images/B2_optimization_function.png
+date: 2020-08-01
+order: 49
 ---
 
 In this class we work through Optimization problems like statistical regression and Lasso and the theory behind them. Furthermore this class serves as an introduction to programming and scientific computing.

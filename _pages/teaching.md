@@ -7,4 +7,5 @@ classes: wide
 permalink: /teaching/
 ---
 
+
 <!-- Here is a collection of classes I have taught: -->
