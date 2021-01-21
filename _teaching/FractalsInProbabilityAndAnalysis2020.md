@@ -1,0 +1,16 @@
+--- 
+title: Fractals in Probability and Analysis 2020
+<!-- excerpt: Class based on Book by Yuval Peres -->
+header:
+    <!-- image: assets/images/Mandel_zoom_00_mandelbrot_set.jpg -->
+    teaser: assets/images/Mandel_zoom_00_mandelbrot_set.jpg
+    <!-- teaser: assets/images/flake_big.gif -->
+sidebar:
+  - title: 
+    image: assets/images/Mandel_zoom_00_mandelbrot_set.jpg
+---
+
+This class is based on the [book](https://www.cambridge.org/core/books/fractals-in-probability-and-analysis/D8CBD4181FDC20C387E22939DA2F6168) "Fractals in Probability and Analysis" by Cristopher Bishop and Yuval Peres. 
+
+You can find recording and course materials [here](https://moodle.unige.ch/course/view.php?id=8986) (Requires Unige moodle access) and the collection of exercise sheets [here](https://github.com/nikolaibobenko/fractals-Prob-2020).
+
