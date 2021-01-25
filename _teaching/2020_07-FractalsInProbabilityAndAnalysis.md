@@ -8,7 +8,7 @@ header:
 sidebar:
   - title: 
     image: assets/images/Mandel_zoom_00_mandelbrot_set.jpg
-date: 2020-08-01
+date: 2020-07-01
 order: 50
 ---
 

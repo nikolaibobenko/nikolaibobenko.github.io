@@ -1,5 +1,6 @@
 ---
 title: Your GAN is secretly an Energy Based Model
+tags: papersexplained
 ---
 
 I am pleased to announce my explainer channel [PapersExplained](https://www.youtube.com/channel/UCzEl7XeZz-wE2LHVyJs2AXw). I will use it for quick explanation videos of current research literature that is accessibly explainable to an interested audience with some maths background but no presumption of being experts in the field. I will focus on papers that include some unique theoretical perspectives as opposed to mostly experimental results.

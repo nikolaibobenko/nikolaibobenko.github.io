@@ -1,5 +1,6 @@
 ---
 title: Arbitrary Style Transfer in Real Time!
+tags: papersexplained
 ---
 
 Here is my presentation of the style transfer paper. This method allows to train a single network to transfer arbitrary styles between arbitrary images and is very fast at generation time.
