@@ -8,11 +8,11 @@ header:
 sidebar:
   - title: 
     image: assets/images/Mandel_zoom_00_mandelbrot_set.jpg
-date: 2020-07-01
-order: 50
+date: 2020-08-02
 ---
 
-This class is based on the [book](https://www.cambridge.org/core/books/fractals-in-probability-and-analysis/D8CBD4181FDC20C387E22939DA2F6168) "Fractals in Probability and Analysis" by Cristopher Bishop and Yuval Peres. 
+This class based on the [book](https://www.cambridge.org/core/books/fractals-in-probability-and-analysis/D8CBD4181FDC20C387E22939DA2F6168) "Fractals in Probability and Analysis" by Christopher Bishop and Yuval Peres. 
 
-You can find recording and course materials [here](https://moodle.unige.ch/course/view.php?id=8986) (Requires Unige moodle access) and the collection of exercise sheets [here](https://github.com/nikolaibobenko/fractals-Prob-2020).
+You can find recordings and course materials [here](https://moodle.unige.ch/course/view.php?id=8986) (Requires Unige moodle access) and the collection of exercise sheets [here](https://github.com/nikolaibobenko/fractals-Prob-2020).
 
+Taught by Stanislav Smirnov. Exercise sessions by Nikolai Bobenko.
