@@ -1,5 +1,5 @@
 ---
-title: Workshop on Mathematical Physics
+title: Workshop on Mathematical Physics 2020
 date: 2020-02-14
 tags: conference
 ---
