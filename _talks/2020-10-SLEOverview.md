@@ -1,6 +1,6 @@
 ---
 title: SLE Overview - Seminar from a Safe Distance
-tags: SLE talk
+tags: SLE talk, conference
 date: 2020-11-27
 header:
     teaser: https://upload.wikimedia.org/wikipedia/commons/7/7c/Schramm-Loewner_Evolution.png

@@ -20,7 +20,7 @@ title                    : "Just Wandering"
 title_separator          : "-"
 subtitle                 : #site tagline that appears below site title in masthead
 name                     : "Nikolai Bobenko"
-description              : "A blog about randomness and learning"
+description              : "About randomness and learning"
 url                      : https://nikolaibobenko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : nikolaibobenko/nikolaibobenko.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -272,7 +272,7 @@ collections:
     permalink: /:collection/:path/
   talks:
     output: true
-    permalink: /collection/:path/
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -305,6 +305,7 @@ defaults:
       author_profile: false
       share: false
       classes: wide
+  # _talks
   - scope:
       path: ""
       type: talks
