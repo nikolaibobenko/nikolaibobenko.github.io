@@ -2,10 +2,10 @@
 title: Statistical Machine Learning
 excerpt: WS 2021
 header:
-    teaser: assets/images/B2_optimization_function.png
+    teaser: assets/images/machine-learning.webp
 sidebar:
     - title:
-      image: assets/images/B2_optimization_function.png
+      image: assets/images/machine-learning.webp
 date: 2021-08-01
 ---
 

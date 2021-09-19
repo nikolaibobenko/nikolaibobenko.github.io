@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Blog"
+    url: /
   - title: "Talks & Conferences"
     url: /talks/
   - title: "Teaching"
