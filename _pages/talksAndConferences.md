@@ -13,6 +13,7 @@ permalink: /talks/
 
 Conferences I have participated in and talks I have given are listed here.
 
+* [SwissMAP Winter School in Mathematical Physics Les Diablerets 2022](https://indico.cern.ch/event/1084303/)
 * [Geometry Workshop in Obergurgl 2021](http://www.geometrie.tugraz.at/events/og2021.html)
 * [SwissMAP General Meeting Les Diablerets 2021](https://www.nccr-swissmap.ch/news-and-events/events/swissmap-annual-general-meeting?occurrenceID=861)
 * [International Congress On Mathematical Physics 2021](https://www.icmp2021.com/)

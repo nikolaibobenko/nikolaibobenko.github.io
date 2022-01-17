@@ -17,7 +17,5 @@ This blog will accompany me along my studies and research as I intend to post sm
 
 I am always looking for research projects and professional opportunities so please do not hesitate to get in touch.
 
-<!-- [CV - (as of 21.02.2020)](../resources/CV.pdf)  -->
-
 ---
 
