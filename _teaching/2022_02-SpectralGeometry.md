@@ -9,6 +9,6 @@ sidebar:
 date: 2022-02-21
 ---
 
-Unige Spectral Geometry class 2022.
+Unige Spectral Geometry class 2022. Course materials [here](https://github.com/nikolaibobenko/SpectralGeometry2022).
 
 Taught by Aleksandr Logunov. Exercise sessions by Nikolai Bobenko.
