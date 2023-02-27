@@ -1,6 +1,6 @@
 ---
 title: Fock Weighted Dimers - Les Diablerets Workshop On Statistical Mechanics
-tags: SLE talk, conference
+tags: conference
 date: 2023-02-23
 header:
     teaser: /assets/images/G2WeightsExample.png
