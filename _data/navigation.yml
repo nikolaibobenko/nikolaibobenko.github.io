@@ -2,7 +2,7 @@
 main:
   - title: "Blog"
     url: /
-  - title: "Talks & Conferences"
+  - title: "Publications & Talks"
     url: /talks/
   - title: "Teaching"
     url: /teaching
