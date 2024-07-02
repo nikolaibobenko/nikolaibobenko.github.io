@@ -2,18 +2,17 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Nikolai Bobenko - fallback!
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21st February 1992
     - name: Languages
-      value: English, German
+      value: English, German, Russian, French
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Geneva, Geneva Switzerland
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +20,15 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master of Science
+      institution: Technical University Berlin, Berlin Germany
+      year: 2019
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Bachelor of Science
+      institution: Free University Berlin, Berlin Germany
+      year: 2017
       description:
         - Description 1.
         - Description 2.
@@ -61,24 +66,6 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
 - title: Academic Interests
   type: nested_list
   contents:
@@ -92,6 +79,9 @@
         - Description 2.
 
 - title: Other Interests
-  type: list
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Music
+      items:
+        - Played the role of Roger in the GAOS production of Rent 2024
+        - Played the role of TJ in the GAOS production of Sister act 2023
