@@ -2,7 +2,7 @@
 layout: post
 title: Arbitrary Style Transfer in Real Time!
 date: 2020-10-01
-description: A walk through the StyleGAN paper
+description: A walk through the style transfer paper
 categories: papersexplained
 tags: papersexplained
 ---

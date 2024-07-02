@@ -22,10 +22,11 @@ nav_order: 2
 * [MIT-2024]
 * [UCLA-2024]
 * [Explicit Dimer Limit Shapes from M-Curves](/assets/pdfs/talks/LimitShapesPres.pdf) at the SwissMAP Workshop on Statistical Mechanics in Les Diablerets 2024
-* [Paris-2023]
+* [Paris-2023 - Dimers conf]
 * [Obergurgl-2023]
 * [Fock Weighted Dimers Talk at the SwissMAP Winter School in Mathematical Physics Les Diablerets 2023](2023-02-FockWeightedDimers)
 * [Probability and Mathematical physics Helsinki - 2022](https://www.helsinki.fi/en/conferences/probability-and-mathematical-physics)
+* [Paris - 2022]
 * [SwissMAP Winter School in Mathematical Physics Les Diablerets 2022](https://indico.cern.ch/event/1084303/)
 * [Geometry Workshop in Obergurgl 2021](http://www.geometrie.tugraz.at/events/og2021.html)
 * [SwissMAP General Meeting Les Diablerets 2021](https://www.nccr-swissmap.ch/news-and-events/events/swissmap-annual-general-meeting?occurrenceID=861)
