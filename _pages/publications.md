@@ -33,12 +33,7 @@ nav_order: 2
 * 2021-09 - [SwissMAP General Meeting Les Diablerets](https://www.nccr-swissmap.ch/news-and-events/events/swissmap-annual-general-meeting?occurrenceID=861)
 * 2021-08 - [International Congress On Mathematical Physics](https://www.icmp2021.com/)
 * 2021-07 - [Summer School on Current Topics in Mathematical Physics Zurich](https://www.icmp2021.com/summer-school-on-current-topics-in-mathematical-physics/)
-* 2021-02 - [SwissMAP Workshop On Statistical Physics Les Diablerets](2021-02-WorkshopOnStatisticalPhysics)
+* 2021-02 - SwissMAP Workshop On Statistical Physics Les Diablerets
 * 2020-10 - MIT Seminar from a Safe Distance: [SLE Overview](/assets/pdf/talks/SLE_Overview.pdf)
-* 2020-02 - [SwissMAP Workshop on Mathematical Physics Les Diablerets](2020-02-WorkshopOnStatisticalPhysics)
-* 2019-11 - [Oberwolfach Graduate Seminar - Mathematics of Deep Learning](2019-11-MathematicsOfDeepLearning)
-
-<!-- # Slides
-* [Dimers and M-Curves: Limits Shapes from Riemann Surfaces](/assets/pdf/talks/LimitShapesPres.pdf) - [Presentation video](https://www.youtube.com/watch?v=9fcb71sjmIY).
-* [Fock Weighted Dimers](/assets/pdf/talks/FockDimersPres.pdf).
-* [SLE Overview](/assets/pdf/talks/SLE_Overview.pdf). -->
+* 2020-02 - [SwissMAP Workshop on Mathematical Physics Les Diablerets](http://www.unige.ch/math/mpseminar/Events/Diablerets2020/diablerets2020.html)
+* 2019-11 - [Oberwolfach Graduate Seminar - Mathematics of Deep Learning](https://www.mfo.de/occasion/1947a)
