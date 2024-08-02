@@ -19,7 +19,7 @@
     {
       "name": "Signatrix GmbH",
       "position": "Machine Learning Engineer",
-      "url": "signatrix.com",
+      "url": "https://www.signatrix.com/",
       "startDate": "2018-08-01",
       "endDate": "2020-02-01",
       "summary": "Implemented optimized computer vision edge inferencing solutions as well as tracking algorithms. Training of detection and classification networks and further image recognition tasks."
@@ -27,7 +27,7 @@
     {
       "name": "Dahlem Center for Machine Learning",
       "position": "Research Assistant - SWARMS Project",
-      "url": "signatrix.com",
+      "url": "https://www.mi.fu-berlin.de/inf/groups/ag-ki/index.html",
       "startDate": "2016-06-01",
       "endDate": "2018-05-01",
       "summary": "Implemented a tracking and mapping system in the SWARMS self-driving car project."
@@ -35,7 +35,7 @@
     {
       "name": "DFKI - German Research Center for Artificial Intelligence",
       "position": "Research Assistant - Language Technology Lab",
-      "url": "signatrix.com",
+      "url": "https://www.dfki.de/web",
       "startDate": "2013-09-01",
       "endDate": "2014-09-01",
       "summary": "Working on Sar-Graphs: Connecting Linguistic Knowledge with Semantic Relations."
