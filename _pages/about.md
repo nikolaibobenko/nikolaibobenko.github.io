@@ -22,7 +22,7 @@ Hi, I'm Nikolai.
 
 I am interested in probability theory, machine learning and mathematical physics.
 
-* I am currently a PhD candidate at the University of Geneva under the supervision of [Stanislav Smirnov](http://www.unige.ch/~smirnov/).
+* I am currently a PhD candidate at the University of Geneva working on statistical mechanics under the supervision of [Stanislav Smirnov](http://www.unige.ch/~smirnov/).
 * Before coming to Geneva I worked at [Signatrix GmbH](https://www.signatrix.com/) as Machine Learning Engineer.
 * I received my MSc in Mathematics at the Technical University of Berlin under the supervision of [Peter K. Friz](http://page.math.tu-berlin.de/~friz/) on the topic of [Rough McKean-Vlasov Equations](/assets/pdf/RoughMcKeanVlasov.pdf).
 
