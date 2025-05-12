@@ -17,6 +17,14 @@
   },
   "work": [
     {
+      "name": "University of Geneva",
+      "position": "Postdoctoral Researcher",
+      // "url": "https://www.signatrix.com/",
+      "startDate": "2025-02-01",
+      "endDate": "present",
+      "summary": "Research in Statistical Mechanics and Integrability. Teaching."
+    },
+    {
       "name": "Signatrix GmbH",
       "position": "Machine Learning Engineer",
       "url": "https://www.signatrix.com/",
@@ -61,7 +69,7 @@
       "area": "Mathematics and Mathematical Physics",
       "studyType": "PhD",
       "startDate": "2020-02-01",
-      "endDate": "2025-31-01"
+      "endDate": "2025-01-31"
       // "score": "10",
       // "courses": ["Dimers and M-curves"]
     },
