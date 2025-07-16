@@ -9,6 +9,8 @@ nav_order: 6
 
 Some of these links are internal to the corresponding university and will require a login.
 
+* 2023-2025: AI Reading Group
+* SS 2025: [Analyse II](https://moodle.unige.ch/course/view.php?id=17861)
 * WS 2024: [Algèbre](https://moodle.unige.ch/course/view.php?id=17885)
 * SS 2024: [MathScope](https://scienscope.unige.ch/mathscope/)
 * WS 2023: [Selected Topics in Complex Analysis](https://moodle.unige.ch/course/view.php?id=16194)
