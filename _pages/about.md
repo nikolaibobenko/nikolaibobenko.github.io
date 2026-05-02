@@ -20,8 +20,9 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Nikolai.
 
-I am currently a postdoctoral researcher at the mathematics department of the University of Geneva. I am interested in probability theory, machine learning, mathematical physics and much more.
+I am currently a quantitative researcher at [White Oak AM](https://www.whiteoakam.com/). I am interested in probability theory, machine learning, elegant solutions and much more.
 
+* I was a postdoctoral researcher at the mathematics department of the University of Geneva in 2025.
 * I completed a PhD at the University of Geneva working on statistical mechanics, specifically the dimer model, under the supervision of [Stanislav Smirnov](http://www.unige.ch/~smirnov/).
 * Before coming to Geneva I worked at [Signatrix GmbH](https://www.signatrix.com/) as Machine Learning Engineer.
 * I received my MSc in Mathematics at the Technical University of Berlin under the supervision of [Peter K. Friz](http://page.math.tu-berlin.de/~friz/) on the topic of [Rough McKean-Vlasov Equations](/assets/pdf/RoughMcKeanVlasov.pdf).
